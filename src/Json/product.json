@@ -1,0 +1,109 @@
+[
+    {
+      "id": 1,
+      "title": " Natürel Sızma Zeytinyağı",
+      "price": 350,
+      "description": "Gemlik Doğal Zeytincilik",
+      "category": "Zeytin Yağı",
+      "image": "https://www.tazeyore.com/uploads/urun/b/Gemlik-Dogal-Zeytincilik-Nat%C3%BCrel%20S%C4%B1zma%20Zeytinya%C4%9F%C4%B1-500-ml.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 2,
+      "title": "Deri Tulum",
+      "price": 300.00 ,
+      "description": "Camembert",
+      "category": "Peynir",
+      "image": "https://www.tazeyore.com/uploads/urun/b/Panartizan-Deri%20Tulum-400-g-1.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Gedelek Turşusu",
+      "price": 255.99,
+      "description": "Adını, Bursa’nın Orhangazi ilçesinin Gedelek köyünden alan turşu, dünyaca tanınan bir lezzettir. Bölgede üretilen turşunun kalitesi ve lezzeti, turşunun yapımında kullanılan yörenin yüksek kalsiyumlu kireçli sularından kaynaklandığı söylenir. Bu turşu Tüm dünyaya ihraç edilmektedir.",
+      "category": "Turşu",
+      "image": "https://www.gotobursa.com.tr/uploads/2020/11/gedelek-tursusu-3.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Bursa Çileği",
+      "price": 25.99,
+      "description": "Bursa’nın dağ ilçeleri olarak bilinen Keles, Orhaneli, Harmancık ve Büyükorhan ilçelerinde üretilmektedir.",
+      "category": "Meyve",
+      "image": "https://www.gotobursa.com.tr/uploads/2020/11/cilek-fidesi_1.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "Bursa Şeftalisi",
+      "price": 32,
+      "description": "Çok farklı türlerinin olduğu Bursa şeftalisi, yaz aylarının en sevilen meyvelerinden bir tanesidir. Bol sulu ve tatlı Bursa şeftalisinin en önemli özelliği, kabuğunun tüylü olmasıdır.",
+      "category": "Meyve",
+      "image": "https://www.gotobursa.com.tr/uploads/2020/11/seftali.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Bursa Gemlik Zeytini",
+      "price": 168,
+      "description": "Bursa’da başta Gemlik olmak üzere Orhangazi ve İznik ilçelerinde yetiştirilen zeytinler Türkiye'nin en kaliteli sofralık zeytinleri olarak bilinir. ",
+      "category": "Zeytin",
+      "image": "https://www.gotobursa.com.tr/uploads/2021/04/zeytin-3_2_large_1.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "Bursa Siyah İnciri ",
+      "price": 59.99,
+      "description": "Bursa'nın bereketli topraklarının ürünlerinden bir tanesi olan siyah incir; dış görüntüsü, iriliği, tatlı ve sulu iç yapısıyla dünyanın en kaliteli sofralık inciri kabul edilir. Ünü dünyaya yayılan bu ürünün kalitesi Bursa’nın iklim koşullarının uygunluğundan gelmektedir.",
+      "category": "Meyve",
+      "image": "https://www.gotobursa.com.tr/uploads/2021/04/yerel-urunler-1_3.png",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Günlük Çiğ İnek Sütü 1 Lt",
+      "price": 25,
+      "description": "Günlük Çiğ İnek Sütü 1 Lt",
+      "category": "Süt",
+      "image": "https://static.ticimax.cloud/cdn-cgi/image/width=543,quality=85/12549/uploads/urunresimleri/buyuk/gunluk-cig-inek-sutu-1-lt-64c3-8.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "30' lu Organik Yumurta",
+      "price": 159,
+      "description": "Organik Yumurta",
+      "category": "Yumurta",
+      "image": "https://www.afiyet.com.tr/imagesbuyuk/organik-yumurta-b4253.JPG",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+     
+      }}]  
