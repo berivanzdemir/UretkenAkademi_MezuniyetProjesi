@@ -11,7 +11,7 @@ function Navbar() {
       data-bs-theme="dark"
     >
       <div className="container">
-      <Link className="navbar-brand" to="/">Bursa Çiftlik</Link>
+      <Link className="navbar-brand" to="/">Çiftlik Bursa </Link>
         <button
           className="navbar-toggler"
           type="button"
@@ -30,6 +30,9 @@ function Navbar() {
             </NavLink>
             <NavLink className="nav-link" to="/about">
              Hakkımızda
+            </NavLink>
+            <NavLink className="nav-link" to="/istatistik">
+             İstatistik
             </NavLink>
             <NavLink className="nav-link" to="/contact">
               İletişim

@@ -19,6 +19,7 @@ function Home() {
             <Categoriess/>
           </div>
         </div>
+        <hr />
       </div>
 
       <FooterDefault /></>

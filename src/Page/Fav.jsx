@@ -8,7 +8,7 @@ function Fav() {
 
   return (
     <>
-    <h1>Sepet</h1>
+    <h1>Sepetim</h1>
    <div className="list-group">
         {favs.map((item) => (
           <Link

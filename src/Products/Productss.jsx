@@ -17,6 +17,7 @@ function Products() { // Component adı düzeltildi
       } catch (error) {
         console.error("Error fetching data:", error);
       }
+      
     };
 
     fetchData();
@@ -24,7 +25,7 @@ function Products() { // Component adı düzeltildi
 
   return (
     <>
-      <h2>Products</h2>
+      <h2>ÜRÜNLER</h2>
       <div className="row row-cols-sm-3 row-cols-md-4">
         {last10Products.map((product) => (
           <ProductCard key={product.id} item={product} />

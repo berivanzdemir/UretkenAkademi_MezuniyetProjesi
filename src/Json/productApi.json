@@ -1,0 +1,27 @@
+[
+    {
+      "HAYVANIN_CINSI": "Sığır (Kültür, Melez, Yerli)",
+      "SAGMAL_HAYVAN_SAYISI_ADET": 81.645,
+      "SUT_URETIM_MOKTARI_TON": 513.55,
+      "ORTALAMA_SUT_VERIMI_KG_ADET": 6.29
+    },
+    {
+      "HAYVANIN_CINSI": "Koyun",
+      "SAGMAL_HAYVAN_SAYISI_ADET": 214.792,
+      "SUT_URETIM_MOKTARI_TON": 14.176,
+      "ORTALAMA_SUT_VERIMI_KG_ADET": 66.00
+    },
+    {
+      "HAYVANIN_CINSI": "Kıl Keçisi",
+      "SAGMAL_HAYVAN_SAYISI_ADET": 28.47,
+      "SUT_URETIM_MOKTARI_TON": 3.003,
+      "ORTALAMA_SUT_VERIMI_KG_ADET": 105.50
+    },
+    {
+      "HAYVANIN_CINSI": "Manda",
+      "SAGMAL_HAYVAN_SAYISI_ADET": 791,
+      "SUT_URETIM_MOKTARI_TON": 955,
+      "ORTALAMA_SUT_VERIMI_KG_ADET": 1.207
+    }
+]
+  

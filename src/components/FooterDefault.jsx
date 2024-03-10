@@ -5,11 +5,12 @@ import { FaXTwitter } from "react-icons/fa6";
 function FooterDefault() {
   return (
     <>
+    <hr />
       <div className="container" >
         <footer className="py-5" >
           <div className="row">
             <div className="col-6 col-md-2 mb-3">
-              <h5><strong>Bursa Çiftlik</strong></h5>
+              <h5><strong>Çiftlik Bursa</strong></h5>
              <p>Topraktan sofraya, her adımda güvenilirlik ve kaliteyi sağlayan, üreticiden tüketiciye doğrudan ulaşımı mümkün kılan, tarımsal alışverişin en güvenilir adresi.</p>
              <div>
   <a href="https://www.linkedin.com/in/berivan-ozdemir/" style={{ display: 'inline-block', marginRight: '10px' }}><FaLinkedin /></a>

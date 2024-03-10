@@ -10,7 +10,7 @@ function Categoriess({user}) {
   });
   return (
     <>
-      <h1>Categories</h1>
+     
       <div className="list-group">
         {categories.map((category, index) => (
           <Link

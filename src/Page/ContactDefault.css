@@ -106,7 +106,7 @@ outline: none;
 resize: none;
 background: transparent;
     border: 2px solid rgba(0, 0, 0, 0.2);
-    backdrop-filter: blur(0px);
+    backdrop-filter: blur(20px);
 
 
 }
